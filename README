@@ -1,0 +1,2 @@
+AutoTask End Point Management reports are difficult to parse in their naitive XLS format outputted by the platform.
+This repository is for python parsing scripts to output a sanitized CSV of some AEM reports.
