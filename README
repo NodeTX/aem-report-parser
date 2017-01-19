@@ -1,2 +1,4 @@
 AutoTask End Point Management reports are hard to parse in their native XLS format.
 This repository is for python parsing scripts to output a sane XLS of some AEM reports.
+
+python main.py -i inputFileName.xls -o outputFileName.xlsx
